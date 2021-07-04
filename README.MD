@@ -2,8 +2,8 @@
 
 Follow this procedure:
 
-* memo2mtx -b "Obliteration Zone (1985) (A Southgate).mtx" --audio --dumb
-* sox "Obliteration Zone (1985) (A Southgate).wav" -r 8820 "Obliteration Zone (1985) (A Southgate)_8820Hz.voc"
-* direct "Obliteration Zone (1985) (A Southgate)_8820Hz.voc"
+* memo2mtx -b "MTX Chess (1983) (Continental Software).mtx" --audio --dumb
+* sox "MTX Chess (1983) (Continental Software).wav" -r 8820 "MTX Chess (1983) (Continental Software)_8820Hz.voc"
+* direct "MTX Chess (1983) (Continental Software)_8820Hz.voc"
 
 
